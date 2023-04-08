@@ -3,6 +3,7 @@
 <h3 align="center">A passionate frontend developer from usa</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzMxYjY5YzAyNGQwMzk4Mjk3NDlmZDEwZGM5YTY3MTg5MzE2MzE3MiZjdD1n/PRGYLYrmpNR5kAQ4D0/giphy.gif">
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k3em05lfislxxsle93tx5iv2a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=f7ce46&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Elijah-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="Elijah_glitch" /> </p>
 
