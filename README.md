@@ -15,6 +15,9 @@
 - ⚡ Fun fact **I am Funny**
 [![elijah_glitchs GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Elijah-glitch&&theme=xcode)](https://github.com/Elijah-glitch)
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/znation31"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="znation31" /></a><a href="https://ko-fi.com/Znation31"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Znation31" /></a></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elijah-glitch&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Elijah-glitch" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Elijah-glitch&show_icons=true&locale=en&theme=tokyonight" alt="Elijah-glitch" /></p>
