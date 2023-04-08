@@ -30,7 +30,7 @@
 <a href="https://discord.gg/https://discord.gg/nFsssQvY9k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/nFsssQvY9k" height="30" width="40" /></a>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/znation31"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="50" alt="znation31" /></a>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E4CAD6F)<br><br>
+<a href='https://ko-fi.com/E1E4CAD6F' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a><br><br>
 </p>
 
 </p>
