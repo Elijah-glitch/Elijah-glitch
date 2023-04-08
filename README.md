@@ -1,7 +1,7 @@
 [![MasterHead](https://media.discordapp.net/attachments/1080231673507086447/1089359838024323202/IMG_3090.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm elijah n.</h1>
 <h3 align="center">A passionate frontend developer from usa</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzMxYjY5YzAyNGQwMzk4Mjk3NDlmZDEwZGM5YTY3MTg5MzE2MzE3MiZjdD1n/PRGYLYrmpNR5kAQ4D0/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k3em05lfislxxsle93tx5iv2a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=f7ce46&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
