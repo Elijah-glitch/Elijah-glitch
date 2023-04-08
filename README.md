@@ -29,7 +29,7 @@
 <a href="https://www.youtube.com/c/znation31alt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Elijah_glitch" height="30" width="40"/></a>
 <a href="https://discord.gg/https://discord.gg/nFsssQvY9k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/nFsssQvY9k" height="30" width="40" /></a>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/znation31"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="znation31" /></a><a href="https://ko-fi.com/Znation31"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Znation31" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/znation31"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="50" alt="znation31" /></a><a href="https://ko-fi.com/Znation31"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="50" alt="Znation31" /></a></p><br><br>
 </p>
 
 </p>
