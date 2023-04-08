@@ -7,13 +7,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Elijah-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="Elijah_glitch" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bus_miswest" target="blank"><img src="https://img.shields.io/twitter/follow/bus_midwest?logo=twitter&style=for-the-badge" alt="Elijah_glitch" /></a> </p>
-
 - 🔭 I’m currently working on **windows domain hosting App**
 - 🌱 I’m currently learning **DevOps**
 - 💬 Ask me about **anything**
 - 📫 How to reach me **elijahenix@gmail.com**
 - ⚡ Fun fact **I am Funny**
+
 [![elijah_glitchs GitHub activity graph]
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elijah-glitch&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Elijah-glitch" /></p>
 
