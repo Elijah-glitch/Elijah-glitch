@@ -19,6 +19,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Elijah-glitch&show_icons=true&locale=en&theme=tokyonight" alt="Elijah-glitch" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Elijah-glitch&theme=tokyonight" alt="Elijah-glitch" /></p>
+<b> <h4 align="center"> Join our discord to connect with our commmunity this server is not our 1 million users server but a new server</h4> </b>
+<p align="center"> <a href="https://discord.com/invite/nFsssQvY9k" target="_blank"> <img src="https://invidget.switchblade.xyz/nFsssQvY9k"> </a> </p>
 ---------------------------------------------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,8 +29,7 @@
 <a href="https://instagram.com/tcapsmovies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Elijah_glitch" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/znation31alt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Elijah_glitch" height="30" width="40"/></a>
 <a href="https://discord.gg/https://discord.gg/nFsssQvY9k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/nFsssQvY9k" height="30" width="40" /></a>
-<b> <h4 align="center"> Join our discord to connect with our commmunity</h4> </b>
-<p align="center"> <a href="https://discord.com/invite/nFsssQvY9k" target="_blank"> <img src="https://invidget.switchblade.xyz/nFsssQvY9k"> </a> </p>
+
 
 <h3 align="left">Support:</h3>
 <a href="https://www.buymeacoffee.com/znation31" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
