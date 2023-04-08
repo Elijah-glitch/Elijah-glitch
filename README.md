@@ -29,7 +29,8 @@
 <a href="https://www.youtube.com/c/znation31alt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Elijah_glitch" height="30" width="40"/></a>
 <a href="https://discord.gg/https://discord.gg/nFsssQvY9k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/nFsssQvY9k" height="30" width="40" /></a>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/znation31"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="50" alt="znation31" /></a>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="znation31" data-color="#5F7FFF" data-emoji=""  data-font="Poppins" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
 <a href='https://ko-fi.com/E1E4CAD6F' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a><br><br>
 </p>
 
