@@ -13,7 +13,7 @@
 - 📧 partner email **partner@tcapsmovies.tk**
 - 💰 founded in **2020**
 
-[![elijah_glitchs GitHub activity graph]
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elijah-glitch&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Elijah-glitch" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Elijah-glitch&show_icons=true&locale=en&theme=tokyonight" alt="Elijah-glitch" /></p>
