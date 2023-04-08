@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
  &copy **2023 tcapsmovies.LLC All Rights Reserved**
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=k3em05lfislxxsle93tx5iv2a&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=k3em05lfislxxsle93tx5iv2a&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false)]]
 
 - 🔭 I’m currently working on **domain App**
 - 🌱 I’m currently learning **DevOps**
