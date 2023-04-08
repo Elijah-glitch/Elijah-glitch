@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm elijah n.</h1>
 <h3 align="center">A passionate frontend developer from usa</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
----------------------------------------------
+
 - 🔭 I’m currently working on **domain App**
 - 🌱 I’m currently learning **DevOps**
 - 💬 Ask me about **anything**
@@ -11,7 +11,7 @@
 - 📧 support email **support@tcapsmovies.tk**
 - 📧 partner email **partner@tcapsmovies.tk**
 - 💰 founded in **2020**
----------------------------------------------
+
 [![elijah_glitchs GitHub activity graph]
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elijah-glitch&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Elijah-glitch" /></p>
 
