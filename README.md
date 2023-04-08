@@ -5,8 +5,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k3em05lfislxxsle93tx5iv2a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=f7ce46&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Elijah-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="Elijah_glitch" /> </p>
-
 - 🔭 I’m currently working on **windows domain hosting App**
 - 🌱 I’m currently learning **DevOps**
 - 💬 Ask me about **anything**
