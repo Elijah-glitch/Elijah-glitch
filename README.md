@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm elijah n.</h1>
 <h3 align="center">A passionate frontend developer from usa</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<footer>
-  <p> &copy 2023 tcapsmovies.LLC All Rights Reserved<br> <p> .<br>
-</footer>
+ &copy 2023 tcapsmovies.LLC All Rights Reserved
 
 - 🔭 I’m currently working on **domain App**
 - 🌱 I’m currently learning **DevOps**
