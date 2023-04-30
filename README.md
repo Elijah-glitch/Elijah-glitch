@@ -21,7 +21,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Elijah-glitch&theme=tokyonight" alt="Elijah-glitch" /></p>
 <b> <h4 align="center"> Join our discord to connect with our commmunity this server is not our 1 million users server but a new server</h4> </b>
-<p align="center"> <a href="https://discord.com/invite/nFsssQvY9k" target="_blank"> <img src="https://invidget.switchblade.xyz/nFsssQvY9k"> </a> </p>
+<p align="center"> <a href="https://discord.com/invite/" target="_blank"> <img src="https://invidget.switchblade.xyz/nFsssQvY9k"> </a> </p>
 ---------------------------------------------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
